@@ -11,3 +11,11 @@ body {
     display: block;
     margin: auto;
 }
+
+.self-link, .recipes-link {
+    display: block;
+}
+
+.self-link {
+    margin-bottom: 12px;
+}
