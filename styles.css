@@ -12,7 +12,7 @@ body {
     margin: auto;
 }
 
-.self-link, .recipes-link {
+.self-link {
     display: inline-block;
     margin-left: 400px;
 }
