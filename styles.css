@@ -1,3 +1,7 @@
+.directory {
+    margin: 0 600px;
+}
+
 body {
     background-color: peachpuff;
     color: rgb(75, 75, 75);
@@ -12,7 +16,3 @@ body {
     margin: auto;
 }
 
-.self-link {
-    display: inline-block;
-    margin-left: 400px;
-}
